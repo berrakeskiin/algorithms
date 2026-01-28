@@ -6,5 +6,5 @@ C++ program that:
 - Prints all divisors of the first integer
 
 ## Author
-First & Last Name: YOUR NAME  
-GitHub Email: YOUR UNI EMAIL
+First & Last Name: Berra Keskin
+GitHub Email: keskib3919373_aehit@students.vizja.pl
