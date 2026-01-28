@@ -1,3 +1,4 @@
+// Task 0 - implemented using VS Code
 #include <iostream>
 #include <cstdlib>
 using namespace std;
@@ -25,3 +26,4 @@ int main() {
 
     return 0;
 }
+
